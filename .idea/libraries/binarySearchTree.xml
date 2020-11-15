@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="binarySearchTree">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BST.Assignment/binarySearchTree/dist/binarySearchTree.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
